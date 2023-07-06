@@ -1,4 +1,4 @@
-# money_management
+# Money_Management Application
 
 A new Flutter project.
 
