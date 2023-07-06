@@ -1,6 +1,6 @@
 # Money_Management Application
 
-A new Flutter project.
+This application is intended to keep track of the income and expense.
 
 ## Getting Started
 
